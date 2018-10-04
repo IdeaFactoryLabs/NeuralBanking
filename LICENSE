@@ -1,0 +1,89 @@
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
+setuptools.setup(
+    name="neuralbanking_pkg",
+    version="0.0.1",
+    author="Bookshelves, PUT YOUR NAME HERE",
+    author_email="ideafactorylabslimited@gmail.com",
+    description="Banking Applied To Neural Networks",
+    long_description=This python module describes the basic core of neural banking. 
+    The implementation of linking the banking APIS applied to neural. 
+    Banking hasn’t being so easier it just takes one thought to accomplished 
+    the intention and hint for the the transaction to be done. 
+    The Implementation of Neural Banking Zones or register safe zones to bank. 
+    Bank frot he comfort of your home or by approaching a safe banking zone. 
+    Bank as you go. Broker accounts, saving account global, money market accounts ,
+    long_description_content_type="text/markdown",
+    url="https://github.com/IdeaFactoryLabs/NeuralBanking",
+    packages=setuptools.find_packages(),
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: PRIVATE",
+        "Operating System :: OS Independent",
+    ],
+)  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PROJECT SCOPE:
+Apply Neural Netoworks to Banking. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+OBJECTIVES:
+“The pay with your Thoughts” 
+To develop self sustaining banking transactions.
+To apply human kinetics and neural networks to banking systems. 
+Pay as you go.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+MEDIUM OF IMPLEMENTATION:
+Implementation of Neural Networks to Banking
+Neural Networks python modules. 
+GPS Modules.
+Banking Modules. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CHALENGE:
+-Scope Automate transaction on thought.
+-Brokerage reimagined. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FUNCTIONS TO DEVELOP AND IMPLEMENT:
+
+ForWhenOnThought(); “Buy shares ANET at current market price”
+ForWhenThoughtQuery(); “Price Check on AAPL”
+ForWhenIntentionsandHint();
+ForWhen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEGAL DISCLAIMER:
+
+All the information contained in this documents are proprietary of the company. 
+The copyrights and patents to the documents are reserved.
+The project abides by the current  policy in regulations by the Federal Government of The United States of America.
+This writ safeguards the intellectual property globally as per international agreement on 
+International Court of Law Netherlands La Hague.  All the ideas in this document are reserved to the 
+Author Guillermo Antonio Herrera Argueta, Algie Bookshelves. 
+This includes the patents pending of the development of software. 
+The designing of process, protocols and the implementation of hardware. 
+U.S.C Title 17 and Intellectual property Rights. 
+Designed in Upland, California USA. 
+Any attempt or theft of this ideas will results in the prosecution of the violators under Federal LawH.
+Holding monetarily liable any person that steals, copies, or trolls this patents pertaining to the company 
+Idea Factory Labs Limited. We reserved the rights of use and the patents for the process of development of
+implementation of each idea into the market.
+It is a Federal Crime to embezzle intellectual property.
+We will prosecute and not hesitate to ignite legal action.
+The Intellectual property is for every government that is open to do business with the research firm.
+Every law disregard the jurisdiction and or territorial extension will be applied.
+International Policy and Treaties safeguard the position of the firm developing protocols for the Banking system. 
+For every Financial institution and or governmental agency interested in conducting 
+business with the firm may obtain a business plan with pricing about buying the intellectual property and patent for the process
+from the research firm.  We reserve the intellectual property globally. 
+This includes the legal strategies of bridging causes against agencies, countries and other financial institutions. 
+The Embezzlement of such will result in Criminal Prosecution for Theft of Trade Secrets. § 499 CA PEN Code. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DEVELOPERS:
+For all the parties interested in joining the development of the project. Profit sharing wil be negotiated through email
+parties interesting in please email Algie at ideafactorylabslimited@gmail.com Include your expertise,
+some projects you have worked on, preference knowledge of Neural Networks, Tensor Flow, Brain Decode, and other project
+Human Kinetics. Immaculated grammer and intuitive implementation of APIs. The project is fair. Lets build banking better!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+October 4 2018 (c) Idea Fatory Labs Limited 
